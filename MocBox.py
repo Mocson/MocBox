@@ -1,3 +1,10 @@
+#================================
+#
+#  MocBox_Ver1.00 ©︎Mocson
+#      2018 / 09 / 28
+#
+#================================
+
 import maya.cmds as cmds
 import pymel.core as pm
 import maya.mel as mel
