@@ -64,7 +64,7 @@ def cut():
 def wrd():
     cmds.manipMoveContext("Move", e=True, m=2)
     cmds.manipScaleContext("Scale", e=True, m=2)
-    cmds.manipRotateContext("Rotate", e=True, m=2)
+    cmds.manipRotateContext("Rotate", e=True, m=1)
 
 def lcl():
     cmds.manipMoveContext("Move", e=True, m=0)
